@@ -9,7 +9,7 @@
   The "switch to the new door strategy" -- where you always switch to the last door once you get information from the host;
 ![screen shot 2018-09-30 at 3 36 56 pm](https://user-images.githubusercontent.com/31684373/46263656-c1df3680-c4c6-11e8-9356-4eada77de108.png)
 - Conclusion<br>
-<br>The switch strategy, which earns about 660 dollars after 1000 games is better than stick strategy which earns about 330 after 1000 games.
+  The switch strategy, which earns about 660 dollars after 1000 games is better than stick strategy which earns about 330 after 1000 games.
 ## Question 2: Simulate the same game under the assumption that it costs $0.50 to play.
 ![screen shot 2018-09-30 at 3 37 08 pm](https://user-images.githubusercontent.com/31684373/46263676-f4892f00-c4c6-11e8-9c68-ff19cd2a40ee.png)
 - Conclusion<br>
