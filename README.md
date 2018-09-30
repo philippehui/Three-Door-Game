@@ -12,5 +12,5 @@
 - The switch strategy, which earns about 660 dollars after 1000 games is better than stick strategy which earns about 330 after 1000 games.
 ## Question 2: Simulate the same game under the assumption that it costs $0.50 to play.
 ![screen shot 2018-09-30 at 3 37 08 pm](https://user-images.githubusercontent.com/31684373/46263676-f4892f00-c4c6-11e8-9c68-ff19cd2a40ee.png)
-- Conclusion
-- For 'Switch Strategy' Player, it is worthy playing this game. For 'Stick Strategy' Player, it is not worthy playing this game.
+- Conclusion/n
+  For 'Switch Strategy' Player, it is worthy playing this game. For 'Stick Strategy' Player, it is not worthy playing this game.
